@@ -24,4 +24,6 @@
 
 ## OpenGL
 
+1. [Лабораторная работа №1](https://github.com/Belorukova/Ingener-komp_graph/tree/master/Lab1)
+
 
