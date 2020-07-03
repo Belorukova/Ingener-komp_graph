@@ -23,3 +23,7 @@
 2. [Программирование в AutoCAD](https://github.com/Belorukova/Ingener-komp_graph/blob/master/Программирование%20autocad.png)
 
 # 6 семестр
+
+## OpenGL
+
+
