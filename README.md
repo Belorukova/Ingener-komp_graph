@@ -11,11 +11,9 @@
 ## Лабораторные работы
 
 1. [Лабораторная работа 1. Черчение в AutoCAD](https://github.com/Belorukova/Ingener-komp_graph/blob/master/Belorukova_Obschiy_chertezh_Plitka.dwg)
-2. AutoCAD индивидуальный чертеж 2D
-* [Рисунок 1](https://github.com/Belorukova/Ingener-komp_graph/blob/master/dj6YZ71Wllo.jpg)
-* [Рисунок 2](https://github.com/Belorukova/Ingener-komp_graph/blob/master/t4_5kQcMZFU.jpg)
-3. [Зачетная работа за 5 семестр. AutoCAD чертеж 3D](https://github.com/Belorukova/Ingener-komp_graph/blob/master/Belorukova_3D.dwg)
-4. [Отчет по 3D чертежу](https://github.com/Belorukova/Ingener-komp_graph/blob/master/Belorukova_3D.docx)
+2. [AutoCAD индивидуальный чертеж 2D](https://github.com/Belorukova/Ingener-komp_graph/tree/master/2D)
+3. [Зачетная работа за 5 семестр. AutoCAD чертеж 3D](https://github.com/Belorukova/Ingener-komp_graph/tree/master/3D)
+
 
 ## Сертификаты
 
