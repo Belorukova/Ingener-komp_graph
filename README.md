@@ -57,6 +57,11 @@
 32. [Лабораторная работа №32](https://github.com/Belorukova/Ingener-komp_graph/tree/master/Lab32)
 34. [Лабораторная работа №34](https://github.com/Belorukova/Ingener-komp_graph/tree/master/Lab34)
 
+--------------------------------
+## Сертификаты
+1. [Создание графичесских моделей с помощью OpenGL](https://github.com/Belorukova/Ingener-komp_graph/blob/master/Снимок%20экрана%202020-07-04%20в%2011.04.23.png)
+2. [Программирование графических процессов с использованием Direct 3D и HLSL](https://github.com/Belorukova/Ingener-komp_graph/blob/master/Снимок%20экрана%202020-07-04%20в%2011.23.51.png)
+
 
 
 
