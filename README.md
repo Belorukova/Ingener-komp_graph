@@ -59,9 +59,9 @@
 
 --------------------------------
 
-36. [Лабораторная работа №36]()
-39. [Лабораторная работа №39]()
-45. [Лабораторная работа №46]()
+36. [Лабораторная работа №36](https://github.com/Belorukova/Ingener-komp_graph/tree/master/36)
+39. [Лабораторная работа №39](https://github.com/Belorukova/Ingener-komp_graph/tree/master/39)
+45. [Лабораторная работа №46](https://github.com/Belorukova/Ingener-komp_graph/tree/master/46)
 
 --------------------------------
 ## Сертификаты
