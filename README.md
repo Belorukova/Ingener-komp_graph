@@ -51,11 +51,11 @@
 25. [Лабораторная работа №25](https://github.com/Belorukova/Ingener-komp_graph/tree/master/Lab25)
 26. [Лабораторная работа №26](https://github.com/Belorukova/Ingener-komp_graph/tree/master/Lab26)
 ---------------------------------
-28. [Лабораторная работа №28]()
-30. [Лабораторная работа №30]()
-31. [Лабораторная работа №31]()
-32. [Лабораторная работа №32]()
-34. [Лабораторная работа №34]()
+28. [Лабораторная работа №28](https://github.com/Belorukova/Ingener-komp_graph/tree/master/Lab28)
+30. [Лабораторная работа №30](https://github.com/Belorukova/Ingener-komp_graph/tree/master/Lab30)
+31. [Лабораторная работа №31](https://github.com/Belorukova/Ingener-komp_graph/tree/master/lab31)
+32. [Лабораторная работа №32](https://github.com/Belorukova/Ingener-komp_graph/tree/master/Lab32)
+34. [Лабораторная работа №34](https://github.com/Belorukova/Ingener-komp_graph/tree/master/Lab34)
 
 
 
